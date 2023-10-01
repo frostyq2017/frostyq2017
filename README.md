@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frostyq2017
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java,html,css,python
+- 🌱 I’m currently learning c/c++, java,html,css,python
 
 
 
